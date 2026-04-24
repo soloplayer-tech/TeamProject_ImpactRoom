@@ -17,6 +17,8 @@
 				"C:/ImpactRoom/TeamProject_ImpactRoom/ImpactRoom/Content/ThirdPerson/Blueprints/BP_Bullet.uasset",
 				"C:/ImpactRoom/TeamProject_ImpactRoom/ImpactRoom/Content/Input/Actions/IA_PlayerFire.uasset",
 				"C:/ImpactRoom/TeamProject_ImpactRoom/ImpactRoom/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/ImpactRoom/TeamProject_ImpactRoom/ImpactRoom/Content/ImpactRoom/Blueprints/WBP_HealthBar.uasset",
+				"C:/ImpactRoom/TeamProject_ImpactRoom/ImpactRoom/Content/ImpactRoom/Blueprints/BP_Monster.uasset",
 				"C:/ImpactRoom/TeamProject_ImpactRoom/ImpactRoom/Content/ImpactRoom/Input/IR_Fire.uasset",
 				"C:/ImpactRoom/TeamProject_ImpactRoom/ImpactRoom/Content/ImpactRoom/Input/IR_PlayerInput.uasset",
 				"C:/ImpactRoom/TeamProject_ImpactRoom/ImpactRoom/Content/ImpactRoom/Input/IA_Fire.uasset",
